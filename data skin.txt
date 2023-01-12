@@ -1,33 +1,39 @@
 { "ADS":
     {
   
-       "cpa_image":"yandex",
+      "cpa_image":"yandex",
       "cpa_title":"yandex",
       "cpa_sous_title":"yandex",
       "cpa_url":"yandex",
-      "show_cpa":false,
+      "show_cpa":true,
 
       "image_silder1":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder2":"https://wallpaper.dog/large/20487356.jpg",
       "image_silder3":"https://wallpaper.dog/large/20487356.jpg",
         
         
-      "banner_type":"yandex",
-      "inter_type":"yandex",
-      "native_type":"yandex",
-      "reward_type":"yandex",
+      "banner_type":"huawei",
+      "inter_type":"huawei",
+      "native_type":"huawei",
+      "reward_type":"huawei",
       
 
       "ironsource_id":"jhd78302",
       "unity_id":"87320283",
      
 
-      "banner_yandex":"R-M-2140023-1",
-      "native_yandex":"R-M-2140023-2",
-      "interstitial_yandex":"R-M-2140023-3",
-      "rewarde_yandex":"R-M-2140023-4",
+      "banner_yandex":"R-M-DEMO-300x50",
+      "native_yandex":"R-M-DEMO-interstitial",
+      "interstitial_yandex":"R-M-DEMO-native-i",
+      "rewarde_yandex":"R-M-DEMO-300x50",
+        
+        
+        "banner_huawei":"testw6vs28auh3",
+        "interstitial_huawei":"teste9ih9j0rc3",
+ 	"reward_huawei":"testx9dtjwj8hp",
+        "native_huawei":"testy63txaom86",
 
-      "openapp_admob":"ca-app-pub-3940256099942544/3419835294",
+      
        "banner_admob":"ca-app-pub-3940256099942544/6300978111",
       "native_admob":"ca-app-pub-3940256099942544/2247696110",
       "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
@@ -117,6 +123,47 @@
       "commentNumbers": " 3343 COMMENTS",
       "downloadNumbers": "4464 DOWNLOADS",
       "description": "TO Download this Mod Game Please Click In The Buton Bellow."
+       
+
+      
+    }
+    ,{
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+
+
+      
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+       
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+     
+    },
+    {
+      "imageUrl": "https://wallpaper.dog/large/20487356.jpg",
+      "title": "Lorem 1",
+      "likeNumbers": "222 LIKES",
+      "commentNumbers": " 333 COMMENTS",
+      "downloadNumbers": "444 DOWNLOADS",
+      "description": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
        
     }
   ], "Apps": [
